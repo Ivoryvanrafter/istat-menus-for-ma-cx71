@@ -1,4 +1,4 @@
-
+iStat Menus for macOS instant Service: window-management & scripting-support is the best iStat Menus for macOS service, featuring window-management and scripting-support. Safe,
 
 
 
